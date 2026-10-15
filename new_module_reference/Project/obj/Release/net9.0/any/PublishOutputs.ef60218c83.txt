@@ -1,0 +1,8 @@
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\new_module_reference.dll
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\new_module_reference.deps.json
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\new_module_reference.pdb
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\Unity.Services.CloudCode.Apis.dll
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\Unity.Services.CloudCode.Core.dll
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\김민찬\AppData\Local\Temp\new_module_reference\module-compilation-cross-platform\Newtonsoft.Json.dll

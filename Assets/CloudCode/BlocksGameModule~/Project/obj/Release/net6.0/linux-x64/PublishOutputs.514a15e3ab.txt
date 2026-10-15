@@ -1,0 +1,13 @@
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\BlocksGameModule.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\BlocksGameModule.deps.json
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\BlocksGameModule.pdb
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Unity.Services.CloudCode.Apis.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Unity.Services.CloudCode.Core.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Google.Protobuf.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Grpc.Core.Api.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Grpc.Net.Client.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Grpc.Net.Common.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\JsonSubTypes.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\김민찬\AppData\Local\Temp\BlocksGameModule\module-compilation\Newtonsoft.Json.dll
